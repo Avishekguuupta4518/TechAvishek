@@ -1,4 +1,4 @@
-# 👨‍💻 Hey, ![img](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is I’m Avishek Gupta!
+# 👨‍💻 Hey, ![img](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I’m Avishek Gupta!
 
 🎓 Computer Engineering student exploring the tech universe.<br>
 💡 MERN Stack enthusiast, diving into Next.js and modern web.<br>
